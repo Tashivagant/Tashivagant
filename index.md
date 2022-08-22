@@ -16,11 +16,11 @@ Anyhow, I hope you can find something useful or to enjoy here.  Whether it be am
 
 How about we start with some photos.  Nothing special, just snaps from my run the other day (got six miles in!)
 
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/111720680/185837466-91c8f600-16a9-49c0-969f-3aba4c5b3cfb.jpg" width=50% height=50%>
 
 I don't know what birds they are.  They look too small for stalks, so I guess herons?
 
-<img src="https://user-images.githubusercontent.com/111720680/185835593-33805939-d089-4d01-a1e1-013875d75118.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/111720680/185835593-33805939-d089-4d01-a1e1-013875d75118.jpg" width=25% height=25%>
 
 Thought this was a duck at first.
 
