@@ -16,7 +16,7 @@ Anyhow, I hope you can find something useful or to enjoy here.  Whether it be am
 
 How about we start with some photos.  Nothing special, just snaps from my run the other day (got six miles in!)
 
-<img src="https://user-images.githubusercontent.com/111720680/185837466-91c8f600-16a9-49c0-969f-3aba4c5b3cfb.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/111720680/185837466-91c8f600-16a9-49c0-969f-3aba4c5b3cfb.jpg" width=25% height=25%>
 
 I don't know what birds they are.  They look too small for stalks, so I guess herons?
 
