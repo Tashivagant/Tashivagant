@@ -14,15 +14,18 @@ Anyhow, I hope you can find something useful or to enjoy here.  Whether it be am
 
 ### Markdown
 
-How about we start with a photo.  Nothing special, just a snap from my run the other day (got six miles in!)
+How about we start with some photos.  Nothing special, just snaps from my run the other day (got six miles in!)
 
-![20220819_080340](https://user-images.githubusercontent.com/111720680/185835162-308f785a-98a0-4c57-a93d-af9df1767ed4.jpg)
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+
 I don't know what birds they are.  They look too small for stalks, so I guess herons?
 
-![20220820_074308](https://user-images.githubusercontent.com/111720680/185835593-33805939-d089-4d01-a1e1-013875d75118.jpg)
+<img src="https://user-images.githubusercontent.com/111720680/185835593-33805939-d089-4d01-a1e1-013875d75118.jpg" width=50% height=50%>
 
 Thought this was a duck at first.
-![20220820_080252](https://user-images.githubusercontent.com/111720680/185835858-e7483831-dc56-40ca-a034-ab3811fb6037.jpg)
+
+<img src="https://user-images.githubusercontent.com/111720680/185835858-e7483831-dc56-40ca-a034-ab3811fb6037.jpg" width=50% height=50%>
 
 Electric kettle duck.
-![20220820_080256](https://user-images.githubusercontent.com/111720680/185836129-a2a09648-8e22-42e3-b2cd-e06de683c0ff.jpg)
+
+<img src="https://user-images.githubusercontent.com/111720680/185836129-a2a09648-8e22-42e3-b2cd-e06de683c0ff.jpg" width=50% height=50%>
