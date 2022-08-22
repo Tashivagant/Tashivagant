@@ -20,7 +20,7 @@ How about we start with some photos.  Nothing special, just snaps from my run th
 
 <img src="https://user-images.githubusercontent.com/111720680/185837466-91c8f600-16a9-49c0-969f-3aba4c5b3cfb.jpg" width=25% height=25%>
 
-I don't know what birds they are.  They look too small for stalks, so I guess herons?
+I don't know what birds they are.  They look too small for storks, so I guess herons?
 
 <img src="https://user-images.githubusercontent.com/111720680/185835593-33805939-d089-4d01-a1e1-013875d75118.jpg" width=25% height=25%>
 
